@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache
